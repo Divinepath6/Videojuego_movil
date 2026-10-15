@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c81b4jcuelmri"]
+
+[ext_resource type="Script" uid="uid://cw4qr8vnawm32" path="res://Videojuego_movil_7mo/Codigo/base_de_datos.gd" id="1_njhm2"]
+
+[node name="BaseDeDatos" type="Node2D" unique_id=652051863]
+script = ExtResource("1_njhm2")

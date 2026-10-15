@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c61wwy8kht48c"]
+
+[ext_resource type="Script" uid="uid://bd6r1g01dj0wj" path="res://Videojuego_movil_7mo/Codigo/cliente.gd" id="1_vqqq5"]
+
+[node name="Cliente" type="Node2D" unique_id=1039930437]
+script = ExtResource("1_vqqq5")
